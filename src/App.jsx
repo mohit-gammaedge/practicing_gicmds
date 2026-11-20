@@ -10,6 +10,7 @@ function App() {
   return (
     <div>
       <h1>Git practicing commands</h1>
+      <h1>test</h1>
       </div>
   )
 }
